@@ -1,3 +1,3 @@
 # Links link
-* [Visualizer](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-* check out the sorting.md file in this repo
+* [LinkedListPython](https://replit.com/team/Algos-Block3-2122/LinkedListPython)
+* [LinkedListJava](https://replit.com/team/Algos-Block3-2122/LinkedListJava)
